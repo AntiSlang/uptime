@@ -1,4 +1,4 @@
-# [📈 Live Status](https://arynyklas.github.io/uptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://antislang.github.io/uptime): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Aryn](https://arynyklas.github.io/uptime), powered by [Upptime](https://github.com/upptime/upptime).
 
