@@ -8,6 +8,9 @@ sites:
   - name: EmojiSongBot
     url: https://backend.isbotdown.com/bots/emojisongbot
     __dangerous__body_down: "\"isDown\":true"
+  - name: AntiSlang.com
+    url: https://antislang.com
+    __dangerous__body_down: "\"isDown\":true"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
