@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 530,
     "timeDay": 529,
-    "timeWeek": 506,
+    "timeWeek": 505,
     "timeMonth": 522,
     "timeYear": 530,
     "dailyMinutesDown": {}
@@ -22,7 +22,7 @@
     "url": "https://backend.isbotdown.com/bots/emojisongbot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "emoji-song-bot",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
