@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 544,
     "timeDay": 393,
-    "timeWeek": 723,
+    "timeWeek": 491,
     "timeMonth": 544,
     "timeYear": 544,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 118,
     "timeDay": 89,
-    "timeWeek": 105,
+    "timeWeek": 99,
     "timeMonth": 114,
     "timeYear": 118,
     "dailyMinutesDown": {}
@@ -40,7 +40,7 @@
     "url": "https://antislang.com",
     "icon": "https://icons.duckduckgo.com/ip3/antislang.com.ico",
     "slug": "anti-slang-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1591,
     "timeDay": 1304,
-    "timeWeek": 1475,
+    "timeWeek": 1441,
     "timeMonth": 1591,
     "timeYear": 1591,
     "dailyMinutesDown": {}
