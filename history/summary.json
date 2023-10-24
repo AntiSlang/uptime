@@ -13,7 +13,7 @@
     "time": 513,
     "timeDay": 420,
     "timeWeek": 432,
-    "timeMonth": 481,
+    "timeMonth": 475,
     "timeYear": 513,
     "dailyMinutesDown": {}
   },
@@ -40,17 +40,17 @@
     "url": "https://antislang.com",
     "icon": "https://icons.duckduckgo.com/ip3/antislang.com.ico",
     "slug": "anti-slang-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1861,
-    "timeDay": 1452,
-    "timeWeek": 1434,
-    "timeMonth": 1593,
-    "timeYear": 1861,
+    "time": 1860,
+    "timeDay": 1447,
+    "timeWeek": 1435,
+    "timeMonth": 1588,
+    "timeYear": 1860,
     "dailyMinutesDown": {}
   }
 ]
