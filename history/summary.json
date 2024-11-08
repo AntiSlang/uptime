@@ -4,16 +4,16 @@
     "url": "https://backend.isbotdown.com/bots/picturestovkbot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "malaj-vorovskoj-filial",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 505,
-    "timeDay": 726,
-    "timeWeek": 553,
-    "timeMonth": 534,
+    "timeDay": 591,
+    "timeWeek": 541,
+    "timeMonth": 531,
     "timeYear": 509,
     "dailyMinutesDown": {}
   },
@@ -50,7 +50,7 @@
     "timeDay": 5538,
     "timeWeek": 2272,
     "timeMonth": 2140,
-    "timeYear": 1908,
+    "timeYear": 1911,
     "dailyMinutesDown": {}
   }
 ]
