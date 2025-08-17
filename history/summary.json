@@ -40,17 +40,17 @@
     "url": "https://antislang.com",
     "icon": "https://icons.duckduckgo.com/ip3/antislang.com.ico",
     "slug": "anti-slang-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2414,
-    "timeDay": 2198,
-    "timeWeek": 2536,
-    "timeMonth": 2551,
-    "timeYear": 2659,
+    "timeDay": 1713,
+    "timeWeek": 2373,
+    "timeMonth": 2513,
+    "timeYear": 2655,
     "dailyMinutesDown": {}
   }
 ]
