@@ -1,6 +1,5 @@
 owner: antislang # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
-icon: https://raw.githubusercontent.com/AntiSlang/uptime/master/assets/AntiSlang512.png
 
 sites:
   - name: Малай Воровской Филиал
@@ -18,7 +17,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /uptime
-  logoUrl: https://play-lh.googleusercontent.com/lITXXtwNIuQuvwTjDu5C4VYHgGMdzdXJ4pAK6K0cd523Wx9BKTvRmDEiNFwZnzH3GR8=s94-rw
+  logoUrl: https://raw.githubusercontent.com/AntiSlang/uptime/master/assets/AntiSlang512.png
+  favicon: https://raw.githubusercontent.com/AntiSlang/uptime/master/assets/AntiSlang512.png
   name: Uptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
