@@ -3,10 +3,12 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Малай Воровской Филиал
-    url: https://backend.isbotdown.com/bots/picturestovkbot
+    # url: https://backend.isbotdown.com/bots/picturestovkbot
+    url: https://api.antislang.com/bots_status.php?check=picturestovkbot
     __dangerous__body_down: "\"isDown\":true"
   - name: EmojiSongBot
-    url: https://backend.isbotdown.com/bots/emojisongbot
+    # url: https://backend.isbotdown.com/bots/emojisongbot
+    url: https://api.antislang.com/bots_status.php?check=emojisongbot
     __dangerous__body_down: "\"isDown\":true"
   - name: AntiSlang.com
     url: https://antislang.com
