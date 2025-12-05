@@ -1,8 +1,8 @@
 [
   {
     "name": "Малай Воровской Филиал",
-    "url": "https://backend.isbotdown.com/bots/picturestovkbot",
-    "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
+    "url": "https://api.antislang.com/bots_status.php?check=picturestovkbot",
+    "icon": "https://icons.duckduckgo.com/ip3/api.antislang.com.ico",
     "slug": "malaj-vorovskoj-filial",
     "status": "down",
     "uptime": "100.00%",
@@ -10,7 +10,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 509,
+    "time": 510,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 290,
@@ -19,8 +19,8 @@
   },
   {
     "name": "EmojiSongBot",
-    "url": "https://backend.isbotdown.com/bots/emojisongbot",
-    "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
+    "url": "https://api.antislang.com/bots_status.php?check=emojisongbot",
+    "icon": "https://icons.duckduckgo.com/ip3/api.antislang.com.ico",
     "slug": "emoji-song-bot",
     "status": "down",
     "uptime": "100.00%",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 121,
+    "time": 120,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 83,
-    "timeYear": 122,
+    "timeYear": 121,
     "dailyMinutesDown": {}
   },
   {
@@ -46,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2469,
-    "timeDay": 1708,
-    "timeWeek": 1652,
-    "timeMonth": 2281,
+    "time": 2470,
+    "timeDay": 2095,
+    "timeWeek": 1689,
+    "timeMonth": 2282,
     "timeYear": 2619,
     "dailyMinutesDown": {}
   }
