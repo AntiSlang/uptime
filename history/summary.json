@@ -13,7 +13,7 @@
     "time": 762,
     "timeDay": 922,
     "timeWeek": 1221,
-    "timeMonth": 1120,
+    "timeMonth": 1123,
     "timeYear": 839,
     "dailyMinutesDown": {}
   },
@@ -22,16 +22,16 @@
     "url": "https://api.antislang.com/bots_status.php?check=emojisongbot",
     "icon": "https://icons.duckduckgo.com/ip3/api.antislang.com.ico",
     "slug": "emoji-song-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 118,
+    "timeDay": 129,
     "timeWeek": 148,
-    "timeMonth": 144,
+    "timeMonth": 145,
     "timeYear": 135,
     "dailyMinutesDown": {}
   },
@@ -50,7 +50,7 @@
     "timeDay": 1280,
     "timeWeek": 1220,
     "timeMonth": 1506,
-    "timeYear": 2323,
+    "timeYear": 2289,
     "dailyMinutesDown": {}
   }
 ]
