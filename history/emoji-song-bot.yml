@@ -1,7 +1,7 @@
 url: https://api.antislang.com/bots_status.php?check=emojisongbot
-status: down
-code: 503
-responseTime: 160
-lastUpdated: 2026-04-13T10:56:45.293Z
+status: up
+code: 200
+responseTime: 184
+lastUpdated: 2026-04-13T12:02:48.571Z
 startTime: 2022-11-27T14:03:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
