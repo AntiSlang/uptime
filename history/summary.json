@@ -4,17 +4,17 @@
     "url": "https://api.antislang.com/bots_status.php?check=picturestovkbot",
     "icon": "https://icons.duckduckgo.com/ip3/api.antislang.com.ico",
     "slug": "malaj-vorovskoj-filial",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 831,
-    "timeDay": 1017,
-    "timeWeek": 915,
-    "timeMonth": 1030,
-    "timeYear": 947,
+    "timeDay": 907,
+    "timeWeek": 922,
+    "timeMonth": 1017,
+    "timeYear": 946,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 800,
-    "timeWeek": 801,
-    "timeMonth": 346,
+    "timeDay": 769,
+    "timeWeek": 813,
+    "timeMonth": 349,
     "timeYear": 159,
     "dailyMinutesDown": {}
   },
@@ -50,7 +50,7 @@
     "timeDay": 1766,
     "timeWeek": 1416,
     "timeMonth": 1471,
-    "timeYear": 1958,
+    "timeYear": 1949,
     "dailyMinutesDown": {}
   }
 ]
