@@ -1,7 +1,7 @@
 url: https://api.antislang.com/bots_status.php?check=picturestovkbot
-status: down
-code: 503
-responseTime: 706
-lastUpdated: 2026-09-11T15:11:19.208Z
+status: up
+code: 200
+responseTime: 614
+lastUpdated: 2026-09-11T18:32:24.937Z
 startTime: 2022-11-27T14:03:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
